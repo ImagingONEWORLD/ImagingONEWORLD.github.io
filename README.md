@@ -7,7 +7,7 @@ Imaging ONEWORLD covers topics including sample preparation, labelling strategie
 <button class="tablink" onclick="openPage('About', this, 'orange')">About</button>
 
 <details>
-  <summary>**2023 Lectures**</summary>
+  <summary>"2023 Lectures"</summary>
   
    <p> 16th January 2023 - Advanced light microscopy for studying the structure and dynamics of the cardiovascular system by Guy Malkinson, Collège de France, Paris, France. Lecture not available on YouTube. </p>
   <p> 23rd January 2023 - Lecture cancelled. </p>
@@ -22,7 +22,7 @@ Imaging ONEWORLD covers topics including sample preparation, labelling strategie
 </details>
 
 <details>
-  <summary>**2022 Lectures**</summary>
+  <summary>"2022 Lectures"</summary>
   <p>12th December 2022 - DNA-PAINT single-particle tracking (DNA-PAINT-SPT) enables extended single-molecule studies of membrane protein interactions by Kristina Ganzinger, Tenure-Track Group Leader, AMOLF, Netherlands.</p>
   <p> 5th December 2022 - BaSiCPy: an accelerated python program for uneven illumination correction of microscopy images by Dr. Tingying Peng, Young investigator Group Leader at Helmholtz AI, Germany and Dr. Yohsuke Fukai, Researcher at the RIKEN Centre for Biosystems Dynamics Research, Japan. [Lecture on Youtube](https://www.youtube.com/watch?v=tIyls9WhMS0) </p> 
   <p> 28th November 2022 - Customized, modular, multiscale microscopy inside and outside the optics lab by Jan Huisken, Georg-August-University Göttingen, Germany. Lecture available on YouTube here. </p>
