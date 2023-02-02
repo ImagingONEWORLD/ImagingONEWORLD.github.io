@@ -15,7 +15,7 @@ Imaging ONEWORLD covers topics including sample preparation, labelling strategie
 
 <div id="2022 Lectures" class="tabcontent">
   <h3>2022 Lectures</h3>
-  <p>Some news this fine day!</p>
+  <p>12th December 2022 - DNA-PAINT single-particle tracking (DNA-PAINT-SPT) enables extended single-molecule studies of membrane protein interactions by Kristina Ganzinger, Tenure-Track Group Leader, AMOLF, Netherlands.</p>
 </div>
 
 <div id="2021 Lectures" class="tabcontent">
