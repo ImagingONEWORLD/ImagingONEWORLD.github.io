@@ -6,17 +6,17 @@ Imaging ONEWORLD covers topics including sample preparation, labelling strategie
 <button class="tablink" onclick="openPage('Contact', this, 'blue')">Contact</button>
 <button class="tablink" onclick="openPage('About', this, 'orange')">About</button>
 
-<div id="Home" class="tabcontent">
+<div id="2023 Lectures" class="tabcontent">
   <h3>Home</h3>
   <p>Home is where the heart is..</p>
 </div>
 
-<div id="News" class="tabcontent">
+<div id="2022 Lectures" class="tabcontent">
   <h3>News</h3>
   <p>Some news this fine day!</p>
 </div>
 
-<div id="Contact" class="tabcontent">
+<div id="2022 Lectures" class="tabcontent">
   <h3>Contact</h3>
   <p>Get in touch, or swing by for a cup of coffee.</p>
 </div>
