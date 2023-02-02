@@ -19,7 +19,7 @@ Imaging ONEWORLD covers topics including sample preparation, labelling strategie
 <details>
   <summary>"2022 LECTURES"</summary>
   <p>12th December 2022 - DNA-PAINT single-particle tracking (DNA-PAINT-SPT) enables extended single-molecule studies of membrane protein interactions by Kristina Ganzinger, Tenure-Track Group Leader, AMOLF, Netherlands.</p>
-  <p> 5th December 2022 - BaSiCPy: an accelerated python program for uneven illumination correction of microscopy images by Dr. Tingying Peng, Young investigator Group Leader at Helmholtz AI, Germany and Dr. Yohsuke Fukai, Researcher at the RIKEN Centre for Biosystems Dynamics Research, Japan. [Lecture on Youtube](https://www.youtube.com/watch?v=tIyls9WhMS0) </p> 
+  <p> 5th December 2022 - BaSiCPy: an accelerated python program for uneven illumination correction of microscopy images by Dr. Tingying Peng, Young investigator Group Leader at Helmholtz AI, Germany and Dr. Yohsuke Fukai, Researcher at the RIKEN Centre for Biosystems Dynamics Research, Japan.  </p> [Lecture on Youtube](https://www.youtube.com/watch?v=tIyls9WhMS0)
   <p> 28th November 2022 - Customized, modular, multiscale microscopy inside and outside the optics lab by Jan Huisken, Georg-August-University Göttingen, Germany. Lecture available on YouTube here. </p>
 
 <p> 21st November 2022 - Computational Microscopy for Breaking Fundamental Imaging Barriers by Sjoerd Stallinga, Delft University of Technology, Netherlands. Lecture available on YouTube here.</p>
