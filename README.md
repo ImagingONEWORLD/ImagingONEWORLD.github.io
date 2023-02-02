@@ -13,12 +13,7 @@ Imaging ONEWORLD covers topics including sample preparation, labelling strategie
   <p> 23rd January 2023 - Lecture cancelled. </p>
 
 
-  ### Some Code
-  ```js
-  function logSomething(something) {
-    console.log('Something', something);
-  }
-  ```
+  
 </details>
 
 <details>
