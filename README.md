@@ -78,6 +78,84 @@ Imaging ONEWORLD covers topics including sample preparation, labelling strategie
 
   
  </details>
+ 
+ <details>
+  <summary>"2021 LECTURES"</summary>
+   <p> 13 December 2021 - Smart Microscopy for Everyone: the OpenFlexure Microscope by Dr Richard Bowman of the University of Bath. Lecture available on YouTube </p>
+
+<p> 29 November 2021 - Illuminating the Biochemical Activity Architecture of the Cell by Dr Jin Zhang, UC San Diego </p>
+
+<p> 22 November 2021 - Organization of translating secretome mRNAs on endoplasmic reticulum by Dr Heejun Choi, Janelia Research Campus. Lecture available on YouTube </p>
+
+<p> 15 November 2021 - From images to information: enhancing resolution and improving accuracy by Dr Susan Cox, King's College London. Lecture available on YouTube </p>
+
+<p> 8 November 2021 - Quantitative 4D microscopy gives unique insights into immune cell function, cellular infection and cell death mechanisms by Dr Kelly Rogers, Walter and Eliza Hall Institute of Medical Research. Lecture available on YouTube </p>
+
+<p> 1st November 2021 - Modelling and determining 3D supramolecular structure from single-molecule localisation data, despite many missing localisations by Dr Alistair Curd. Lecture available on YouTube </p>
+
+<p> 25 October 2021 - Publishing methodological developments in imaging and microscopy by Rita Strack, Nature Methods </p>
+
+<p> 18 October 2021 - Motion of single molecular tethers reveals dynamic subdomains at organelle contact sites by Dr Chris Obara, Janelia Research Campus. Lecture available on YouTube </p>
+
+<p> 11 October 2021 - Finding the needle in the haystack with 3D correlative light and electron microscopy by Dr Lucy Collinson, Francis Crick Institute. Lecture available on YouTube </p>
+
+<p> 4 October 2021 - Using Affimers and finding patterns in super-resolution images by Professor Michelle Peckam, Leeds University. Lecture available on YouTube </p>
+
+<p> 27 September 2021 - How do human cells divide? Developing microscopy methods to extend the frontiers of imaging photosensitive samples by Professor Viji Mythily Draviam, Queen Mary, University of London </p>
+
+<p> 20 September 2021 - New single molecule methods to study protein dynamics on membranes by Professor Petra Schwille, Max Planck Institute of Biochemistry. Lecture available on YouTube </p>
+
+<p> 6 September 2021 - Exploring molecular organization and orientation in living cells using fluorescence anisotropy imaging by Professor Jitu Mayor, National Centre for Biological Sciences </p>
+
+<p> 13 September 2021 - High-speed 3D imaging with Multifocus Microscopy by Asst Professor Sara Abrahamsson and PhD Candidate Eduardo Hirata, Baskin School of Engineering, University of California </p>
+
+<p> 26 July 2021 - Quantification of cell shape and intracellular flows based on DIC object detection by Dr Chaitanya Athale, Indian Institute of Science Education and Research </p>
+
+<p> 19 July 2021 - Deep Learning in Microscopy by Professor Udo Birk, Institute for Photonics and ICT </p>
+
+<p> 12 July 2021 - Cryo Super-Resolution Fluorescence Microscopy for Correlation with Cryo-EM by Professor Rainer Kauffman, University of Hamburg </p>
+
+<p> 28 June 2021 - Enhanced FIB-SEM: Large Volume Whole Cells and Tissues Imaging at Fine Resolutions by Dr Shan Xu, Janelia Research Campus </p>
+
+<p> 21 June 2021 - Discerning how actin regulatory proteins give rise to filopodia using multi-channel timelapse imaging and quantification by Dr Jenny Gallop, Cambridge University </p>
+
+<p> 14 June 2021 - Adaptive optics for microscopy: the past, the present and the future by Professor Martin Booth, University of Oxford. Lecture available on YouTube </p>
+
+<p> 7 June 2021 - Horses for the courses: strategic adaptation of super-resolution microscopy modalities to solve the structural basis of cell signalling by Dr Izzy Jayasinghe, The University of Sheffield </p>
+
+<p> 24 May 2021 - Spatially Modulated Illumination Microscopy: Application Perspectives in Nuclear Nanostructure Analysis by Professor Christoph Cremer, Ruprecht-Karls-University, Heidelberg </p>
+
+<p> 17 May 2021 - Novel Molecular and Computational Tools for Studying Organelle Dynamics by Uri Manor, Salk Institute for Biological Studies </p>
+
+<p> 10 May 2021 - Using the Mesolens for optical mesoscopic imaging with sub-cellular resolution by Professor Gail McConnell, University of Strathclyde </p>
+
+<p> 26 April 2021 - Automatic whole cell organelle segmentation in volumetric electron microscopy by Aubrey Weigel, Janelia Research Campus </p>
+
+<p> 19 April 2021 - How do you build a wall? Using and developing advanced live cell fluorescence microscopy to understand how bacteria divide by Seamus Holden, Newcastle University </p>
+
+<p> 12 April 2021 - Emerging imaging technologies to study cell architecture, dynamics and function by Jennifer Lippincott-Schwartz, Janelia Research Campus </p>
+
+<p> 22 March 2021 - Gaia: ESA's Two Billion Star Map of the Milky Way by Nicholas Walton, University of Cambridge </p>
+
+<p> 15 March 2021 - 3D Imaging of Cells by FIBSEM with Correlation to Cryo Fluorescence Microscopy by Harald Hess, Janelia Research Campus </p>
+
+<p> 8 March 2021 - Protein-protein interactions at the cellular interface: Biophotonics approaches to quantitative FRET measurements by Simon Ameer-Beg, King's College London </p>
+
+<p> 1 March 2021 - Biological Discovery from Large-Scale Imaging Data by Heba Sailem, University of Oxford </p>
+
+<p> 22 February 2021 - GPU-accelerated 3D image processing for everyone by Robert Haase, Technische Universitat Dresden </p>
+
+<p> 15 February 2021: Primed Conversion: The New Kid on the Block for Photoconversion by Periklis Pantazis, Imperial College London </p>
+
+<p> 8 February 2021: DNA Based, Monofunctionalized quantum dots for single particle BioImaging of proteins in living cells by Dhiraj Devidas Bhatia, Indian Institute of Technology </p>
+
+<p> 1 February 2021:  The Power in your Pocket - Your Smartphone as a Super-Resolution Microscope by Benedict Diederich, Leibniz Institute for Photonic Technology </p>
+
+<p> 25 January 2021: Deep learning-based point scanning super resolution imaging by Linjing Fang, Salk Institute for Biological Sciences </p>
+
+<p> 11 January 2021: Monitoring CRISPR-Cas target search in live bacteria using single-molecule localisation microscopy by Johannes Holbein, Wageningen U& </p>
+
+  </details>
 
 <div id="2023 Lectures" class="tabcontent">
   <h3>2023 Lectures</h3>
