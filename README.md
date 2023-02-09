@@ -8,8 +8,7 @@ Imaging ONEWORLD covers topics including sample preparation, labelling strategie
 <a href="https://github.com/ImagingONEWORLD/ImagingONEWORLD.github.io/blob/b6ac4da98d1657fc8ccc7dab850a3a2b9146d1e1/Organizer_intro_Nabanita.md">Nabanita Chatterjee</a>
 &emsp; &emsp; &nbsp;&nbsp;
 <a href="https://github.com/ImagingONEWORLD/ImagingONEWORLD.github.io/blob/16c7bb29234c17bb426458814e874a9c5078e32a/Organizer_intro_Christian.md">Christian Franke</a>
-
-&emsp; &emsp; &emsp; &emsp; Nick Barry
+&emsp; &emsp; &emsp; &emsp; <a href="https://github.com/ImagingONEWORLD/ImagingONEWORLD.github.io/blob/3a6d2a70ef714b61ab33ba5ec0734ea73bebef15/Organizer_intro_Nick.md">Nick Barry</a>
 &emsp; &emsp; &emsp; &emsp;&emsp;&emsp;&nbsp; <a href="https://sites.coecis.cornell.edu/feixia/">Fei Xia</a>
 
 <img src ="https://github.com/ImagingONEWORLD/ImagingONEWORLD.github.io/blob/3a20426cf6e51c5c334d0c6fd01c146c0094d12f/photos_organizers_/Kirti-Org.jpg" width="170" height="170" > .
