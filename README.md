@@ -3,17 +3,17 @@ Imaging ONEWORLD covers topics including sample preparation, labelling strategie
 
 ## Scientific Organisers 
 
-&emsp; &emsp;&nbsp;&nbsp;Kirti Prakash 
-&emsp; &emsp; &emsp; &emsp; &nbsp;Nabanita Chatterjee 
-&emsp; &emsp; &emsp; &nbsp;&nbsp;Christian Franke
-&emsp; &emsp; &emsp; &emsp; &emsp; Nick Barry
-&emsp; &emsp; &emsp; &emsp; &emsp;&emsp;&emsp;&nbsp; <a href="https://sites.coecis.cornell.edu/feixia/">Fei Xia</a>
+&emsp; &emsp;&nbsp;Kirti Prakash 
+&emsp; &emsp; &emsp;  &nbsp;Nabanita Chatterjee 
+&emsp; &emsp; &nbsp;&nbsp;Christian Franke
+&emsp; &emsp; &emsp; &emsp; Nick Barry
+&emsp; &emsp; &emsp; &emsp;&emsp;&emsp;&nbsp; <a href="https://sites.coecis.cornell.edu/feixia/">Fei Xia</a>
 
-<img src ="https://github.com/ImagingONEWORLD/ImagingONEWORLD.github.io/blob/3a20426cf6e51c5c334d0c6fd01c146c0094d12f/photos_organizers_/Kirti-Org.jpg" width="190" height="190" > .
-<img src ="https://github.com/ImagingONEWORLD/ImagingONEWORLD.github.io/blob/3a20426cf6e51c5c334d0c6fd01c146c0094d12f/photos_organizers_/Nabanita-Chatterjee.jpg" width="190" height="190" >.
-<img src ="https://github.com/ImagingONEWORLD/ImagingONEWORLD.github.io/blob/3a20426cf6e51c5c334d0c6fd01c146c0094d12f/photos_organizers_/Christian-Franke.jpg" width="190" height="190" > .
- <img src ="https://github.com/ImagingONEWORLD/ImagingONEWORLD.github.io/blob/3a20426cf6e51c5c334d0c6fd01c146c0094d12f/photos_organizers_/snowflake.jpg" width="190" height="190" > .
-  <img src ="https://github.com/ImagingONEWORLD/ImagingONEWORLD.github.io/blob/3a20426cf6e51c5c334d0c6fd01c146c0094d12f/photos_organizers_/Fei_Xia.jpg" width="190" height="190" >.
+<img src ="https://github.com/ImagingONEWORLD/ImagingONEWORLD.github.io/blob/3a20426cf6e51c5c334d0c6fd01c146c0094d12f/photos_organizers_/Kirti-Org.jpg" width="170" height="170" > .
+<img src ="https://github.com/ImagingONEWORLD/ImagingONEWORLD.github.io/blob/3a20426cf6e51c5c334d0c6fd01c146c0094d12f/photos_organizers_/Nabanita-Chatterjee.jpg" width="170" height="170" >.
+<img src ="https://github.com/ImagingONEWORLD/ImagingONEWORLD.github.io/blob/3a20426cf6e51c5c334d0c6fd01c146c0094d12f/photos_organizers_/Christian-Franke.jpg" width="170" height="170" > .
+ <img src ="https://github.com/ImagingONEWORLD/ImagingONEWORLD.github.io/blob/3a20426cf6e51c5c334d0c6fd01c146c0094d12f/photos_organizers_/snowflake.jpg" width="170" height="170" > .
+  <img src ="https://github.com/ImagingONEWORLD/ImagingONEWORLD.github.io/blob/3a20426cf6e51c5c334d0c6fd01c146c0094d12f/photos_organizers_/Fei_Xia.jpg" width="170" height="170" >.
 
 
 ## Upcoming lectures and archives
