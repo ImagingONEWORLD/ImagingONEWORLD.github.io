@@ -11,11 +11,11 @@ Imaging ONEWORLD covers topics including sample preparation, labelling strategie
 &emsp; &emsp; &emsp; &emsp; <a href="https://github.com/ImagingONEWORLD/ImagingONEWORLD.github.io/blob/3a6d2a70ef714b61ab33ba5ec0734ea73bebef15/Organizer_intro_Nick.md">Nick Barry</a>
 &emsp; &emsp; &emsp; &emsp;&emsp;&emsp;&nbsp; <a href="https://sites.coecis.cornell.edu/feixia/">Fei Xia</a>
 
-<img src ="https://github.com/ImagingONEWORLD/ImagingONEWORLD.github.io/blob/3a20426cf6e51c5c334d0c6fd01c146c0094d12f/photos_organizers_/Kirti-Org.jpg" width="170" height="170" > .
-<img src ="https://github.com/ImagingONEWORLD/ImagingONEWORLD.github.io/blob/3a20426cf6e51c5c334d0c6fd01c146c0094d12f/photos_organizers_/Nabanita-Chatterjee.jpg" width="170" height="170" >.
-<img src ="https://github.com/ImagingONEWORLD/ImagingONEWORLD.github.io/blob/3a20426cf6e51c5c334d0c6fd01c146c0094d12f/photos_organizers_/Christian-Franke.jpg" width="170" height="170" > .
- <img src ="https://github.com/ImagingONEWORLD/ImagingONEWORLD.github.io/blob/3a20426cf6e51c5c334d0c6fd01c146c0094d12f/photos_organizers_/snowflake.jpg" width="170" height="170" > .
-  <img src ="https://github.com/ImagingONEWORLD/ImagingONEWORLD.github.io/blob/3a20426cf6e51c5c334d0c6fd01c146c0094d12f/photos_organizers_/Fei_Xia.jpg" width="170" height="170" >.
+<img src ="https://github.com/ImagingONEWORLD/ImagingONEWORLD.github.io/blob/3a20426cf6e51c5c334d0c6fd01c146c0094d12f/photos_organizers_/Kirti-Org.jpg?raw=true" width="170" height="170" > .
+<img src ="https://github.com/ImagingONEWORLD/ImagingONEWORLD.github.io/blob/3a20426cf6e51c5c334d0c6fd01c146c0094d12f/photos_organizers_/Nabanita-Chatterjee.jpg?raw=true" width="170" height="170" >.
+<img src ="https://github.com/ImagingONEWORLD/ImagingONEWORLD.github.io/blob/3a20426cf6e51c5c334d0c6fd01c146c0094d12f/photos_organizers_/Christian-Franke.jpg?raw=true" width="170" height="170" > .
+ <img src ="https://github.com/ImagingONEWORLD/ImagingONEWORLD.github.io/blob/3a20426cf6e51c5c334d0c6fd01c146c0094d12f/photos_organizers_/snowflake.jpg?raw=true" width="170" height="170" > .
+  <img src ="https://github.com/ImagingONEWORLD/ImagingONEWORLD.github.io/blob/3a20426cf6e51c5c334d0c6fd01c146c0094d12f/photos_organizers_/Fei_Xia.jpg?raw=true" width="170" height="170" >.
 
 
 ## Upcoming lectures and archives
