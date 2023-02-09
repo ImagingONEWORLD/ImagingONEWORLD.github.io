@@ -3,17 +3,19 @@ Imaging ONEWORLD covers topics including sample preparation, labelling strategie
 
 ## Scientific Organisers 
 
-&emsp; &emsp;&nbsp;&nbsp;Kirti Prakash 
-&emsp; &emsp; &emsp; &emsp; &nbsp;Nabanita Chatterjee 
-&emsp; &emsp; &emsp; &nbsp;&nbsp;Christian Franke
-&emsp; &emsp; &emsp; &emsp; &emsp; Nick Barry
-&emsp; &emsp; &emsp; &emsp; &emsp;&emsp;&emsp;&nbsp; <a href="https://sites.coecis.cornell.edu/feixia/">Fei Xia</a>
+&emsp; &emsp;&nbsp;<a href="https://github.com/ImagingONEWORLD/ImagingONEWORLD.github.io/blob/1fa32571a13707c821d604fa6ad1611ed4b65c2a/Organizers%20intro_Kirti.md">Kirti Prakash</a>
+&emsp; &emsp; &emsp; 
+<a href="https://github.com/ImagingONEWORLD/ImagingONEWORLD.github.io/blob/b6ac4da98d1657fc8ccc7dab850a3a2b9146d1e1/Organizer_intro_Nabanita.md">Nabanita Chatterjee</a>
+&emsp; &emsp; &nbsp;&nbsp;
+<a href="https://github.com/ImagingONEWORLD/ImagingONEWORLD.github.io/blob/16c7bb29234c17bb426458814e874a9c5078e32a/Organizer_intro_Christian.md">Christian Franke</a>
+&emsp; &emsp; &emsp; &emsp; <a href="https://github.com/ImagingONEWORLD/ImagingONEWORLD.github.io/blob/3a6d2a70ef714b61ab33ba5ec0734ea73bebef15/Organizer_intro_Nick.md">Nick Barry</a>
+&emsp; &emsp; &emsp; &emsp;&emsp;&emsp;&nbsp; <a href="https://sites.coecis.cornell.edu/feixia/">Fei Xia</a>
 
-<img src ="https://github.com/ImagingONEWORLD/ImagingONEWORLD.github.io/blob/3a20426cf6e51c5c334d0c6fd01c146c0094d12f/photos_organizers_/Kirti-Org.jpg" width="190" height="190" > .
-<img src ="https://github.com/ImagingONEWORLD/ImagingONEWORLD.github.io/blob/3a20426cf6e51c5c334d0c6fd01c146c0094d12f/photos_organizers_/Nabanita-Chatterjee.jpg" width="190" height="190" >.
-<img src ="https://github.com/ImagingONEWORLD/ImagingONEWORLD.github.io/blob/3a20426cf6e51c5c334d0c6fd01c146c0094d12f/photos_organizers_/Christian-Franke.jpg" width="190" height="190" > .
- <img src ="https://github.com/ImagingONEWORLD/ImagingONEWORLD.github.io/blob/3a20426cf6e51c5c334d0c6fd01c146c0094d12f/photos_organizers_/snowflake.jpg" width="190" height="190" > .
-  <img src ="https://github.com/ImagingONEWORLD/ImagingONEWORLD.github.io/blob/3a20426cf6e51c5c334d0c6fd01c146c0094d12f/photos_organizers_/Fei_Xia.jpg" width="190" height="190" >.
+<img src ="https://github.com/ImagingONEWORLD/ImagingONEWORLD.github.io/blob/3a20426cf6e51c5c334d0c6fd01c146c0094d12f/photos_organizers_/Kirti-Org.jpg" width="170" height="170" > .
+<img src ="https://github.com/ImagingONEWORLD/ImagingONEWORLD.github.io/blob/3a20426cf6e51c5c334d0c6fd01c146c0094d12f/photos_organizers_/Nabanita-Chatterjee.jpg" width="170" height="170" >.
+<img src ="https://github.com/ImagingONEWORLD/ImagingONEWORLD.github.io/blob/3a20426cf6e51c5c334d0c6fd01c146c0094d12f/photos_organizers_/Christian-Franke.jpg" width="170" height="170" > .
+ <img src ="https://github.com/ImagingONEWORLD/ImagingONEWORLD.github.io/blob/3a20426cf6e51c5c334d0c6fd01c146c0094d12f/photos_organizers_/snowflake.jpg" width="170" height="170" > .
+  <img src ="https://github.com/ImagingONEWORLD/ImagingONEWORLD.github.io/blob/3a20426cf6e51c5c334d0c6fd01c146c0094d12f/photos_organizers_/Fei_Xia.jpg" width="170" height="170" >.
 
 
 ## Upcoming lectures and archives
