@@ -1,19 +1,22 @@
 # ImagingONEWORLD
 Imaging ONEWORLD covers topics including sample preparation, labelling strategies, experimental workflows, and ‘how-to’ image and analyse. The webinars examine inspiring new scientific ideas and facilitate collaborations, with speakers also available for questions and answers. The organisers, core facility and research staff from the MRC-LMB, ICR/Royal Marsden Trust, Brunel University, University of Gothenburg, University of Jena and École Normale Supérieure, are also able to continue the discussion and provide advice on your imaging projects.
 
-Scientific Organisers 
+## Scientific Organisers 
 
-Kirti Prakash 
-Nabanita Chatterjee
-Christian Franke
-Nick Barry
-Fei Xia
+&emsp; &emsp;&nbsp;&nbsp;Kirti Prakash 
+&emsp; &emsp; &emsp; &emsp; &nbsp;Nabanita Chatterjee 
+&emsp; &emsp; &emsp; &nbsp;&nbsp;Christian Franke
+&emsp; &emsp; &emsp; &emsp; &emsp; Nick Barry
+&emsp; &emsp; &emsp; &emsp; &emsp;&emsp;&emsp;&nbsp; <a href="https://sites.coecis.cornell.edu/feixia/">Fei Xia</a>
 
-<button class="tablink" onclick="openPage('Home', this, 'red')">Home</button>
-<button class="tablink" onclick="openPage('News', this, 'green')" id="defaultOpen">News</button>
-<button class="tablink" onclick="openPage('Contact', this, 'blue')">Contact</button>
-<button class="tablink" onclick="openPage('About', this, 'orange')">About</button>
+<img src ="https://github.com/ImagingONEWORLD/ImagingONEWORLD.github.io/blob/3a20426cf6e51c5c334d0c6fd01c146c0094d12f/photos_organizers_/Kirti-Org.jpg" width="190" height="190" > .
+<img src ="https://github.com/ImagingONEWORLD/ImagingONEWORLD.github.io/blob/3a20426cf6e51c5c334d0c6fd01c146c0094d12f/photos_organizers_/Nabanita-Chatterjee.jpg" width="190" height="190" >.
+<img src ="https://github.com/ImagingONEWORLD/ImagingONEWORLD.github.io/blob/3a20426cf6e51c5c334d0c6fd01c146c0094d12f/photos_organizers_/Christian-Franke.jpg" width="190" height="190" > .
+ <img src ="https://github.com/ImagingONEWORLD/ImagingONEWORLD.github.io/blob/3a20426cf6e51c5c334d0c6fd01c146c0094d12f/photos_organizers_/snowflake.jpg" width="190" height="190" > .
+  <img src ="https://github.com/ImagingONEWORLD/ImagingONEWORLD.github.io/blob/3a20426cf6e51c5c334d0c6fd01c146c0094d12f/photos_organizers_/Fei_Xia.jpg" width="190" height="190" >.
 
+
+## Upcoming lectures and archives
 <details>
   <summary>"2023 LECTURES"</summary>
   
